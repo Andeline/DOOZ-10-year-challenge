@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		575D048E265FAB1F009918BF /* jf-openhuninn-1.1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 575D048D265FAB1F009918BF /* jf-openhuninn-1.1.ttf */; };
 		575EE3C926340D4F0086E39C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 575EE3C826340D4F0086E39C /* AppDelegate.swift */; };
 		575EE3CB26340D4F0086E39C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 575EE3CA26340D4F0086E39C /* SceneDelegate.swift */; };
 		575EE3CD26340D4F0086E39C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 575EE3CC26340D4F0086E39C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		575D048D265FAB1F009918BF /* jf-openhuninn-1.1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jf-openhuninn-1.1.ttf"; sourceTree = "<group>"; };
 		575EE3C526340D4F0086E39C /* DOOZ-10-year-challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DOOZ-10-year-challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		575EE3C826340D4F0086E39C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		575EE3CA26340D4F0086E39C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		575EE3C726340D4F0086E39C /* DOOZ-10-year-challenge */ = {
 			isa = PBXGroup;
 			children = (
+				575D048D265FAB1F009918BF /* jf-openhuninn-1.1.ttf */,
 				575EE3C826340D4F0086E39C /* AppDelegate.swift */,
 				575EE3CA26340D4F0086E39C /* SceneDelegate.swift */,
 				575EE3CC26340D4F0086E39C /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				575EE3D526340D500086E39C /* LaunchScreen.storyboard in Resources */,
+				575D048E265FAB1F009918BF /* jf-openhuninn-1.1.ttf in Resources */,
 				575EE3D226340D500086E39C /* Assets.xcassets in Resources */,
 				575EE3D026340D4F0086E39C /* Main.storyboard in Resources */,
 			);
